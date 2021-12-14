@@ -1,7 +1,7 @@
 Updated Dec 14 2021
 
 -Fix ping rate
--Fix Hast display
+-Fix Hash display
 
 Miner fee reduced by 0.25% while mining on Flockpool.com
 Come, check it out and visit our Discord !
