@@ -7,7 +7,7 @@ Updated Dec 14 2021
 
 Miner fee reduced by 0.25% while mining on Flockpool.com
 
-Remember that you can reuse the tune_config files from version 1.2.X by copying it into the 1.2.4.1 main folder.
+Remember that you can reuse the tune_config file from version 1.2.X by copying it into the 1.2.4.1 main folder.
 Alder Lake (12th gen intel) users are highly recommended to retune the miner.
 Make sure E cores number was detected properly.
 
