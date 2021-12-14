@@ -2,8 +2,8 @@ Updated Dec 14 2021
 
 - Fix ping rate
 - Fix Hash display
-- Updated config.joson file
 - sample binary file.
+- updated config.jason file with hash rate monitor.
 
 Miner fee reduced by 0.25% while mining on Flockpool.com
 
