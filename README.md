@@ -40,4 +40,4 @@ Flags:
     reduce your overall average hashrate!! Does not apply to the tuning process.
 
 
-This project is a fork form the cpuminer-gr-1.2.4.1-x86_64.
+This project is a fork form cpuminer-gr-1.2.4.1-x86_64.
