@@ -1,20 +1,17 @@
 Updated Dec 14 2021
 
--Fix ping rate
--Fix Hash display
+- Fix ping rate
+- Fix Hash display
+- Updated config.joson file
+- sample binary file.
 
 Miner fee reduced by 0.25% while mining on Flockpool.com
 
 Remember that you can reuse the tune_config and config.json
 files from version 1.2.X by copying them into the 1.2.4.1 main folder.
 Alder Lake (12th gen intel) users are highly recommended to retune the miner.
-Make sure E cores number was detected properly!
-Fix:
+Make sure E cores number was detected properly.
 
-    Fix problem with miner reconnecting after donation to the same pool.
-    Occurred if the user switched to the backup pool at least once.
-    Fix problem with Large Pages, AVX, or below while tune-full was set to true.
-    HOTFIX Fix problem with backup stratum. Could cause miner to not start properly.
 
 General:
 
