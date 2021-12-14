@@ -4,8 +4,6 @@ Updated Dec 14 2021
 -Fix Hash display
 
 Miner fee reduced by 0.25% while mining on Flockpool.com
-Come, check it out and visit our Discord !
-
 
 Remember that you can reuse the tune_config and config.json
 files from version 1.2.X by copying them into the 1.2.4.1 main folder.
