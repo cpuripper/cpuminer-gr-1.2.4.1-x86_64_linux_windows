@@ -5,7 +5,9 @@ Updated Dec 14 2021
 - sample binary file.
 - updated config.jason file with hash rate monitor.
 
-Miner fee reduced by 0.25% while mining on Flockpool.com
+Made for Flockpool.com
+
+Miner fee reduced by 0.25% while mining on Deppool.com All other pools will be charged full dev fee. Fee:1.5% mining on deppool.com (1.75% WHILE NOT MINING ON deppool.com)
 
 Remember that you can reuse the tune_config file from version 1.2.X by copying it into the 1.2.4.1 main folder.
 Alder Lake (12th gen intel) users are highly recommended to retune the miner.
